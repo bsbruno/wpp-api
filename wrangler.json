@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "wpp-api",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "4a6fe19c-ade1-4562-99ab-e50c698c81a1",
+      "database_name": "silent-mud-39c1-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
